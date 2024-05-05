@@ -17,7 +17,7 @@ In this Repository, I have completed Day 12 HTML, CSS & Bootstrap task
           * Breakpoints
 
   ==> This page is also Deployed on Netlify
-  URL : 
+  URL : https://ryd-survey-form.netlify.app
       
 
 
